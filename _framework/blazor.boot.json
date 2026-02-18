@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "PokerButler-PageSource",
   "resources": {
-    "hash": "sha256-AimnvTerpaXD0/g3XNbvUUhX86Fqj5iRYO3ZUg4EPC4=",
+    "hash": "sha256-PX8yZXsPie79ZJdvFavJqF1Nk8jzZ6vhVRdGAbyaHXc=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-4g0GzvOXSwZvTLca4PrWJkoeltz+V9IF/hEFDcnVros="
     },
@@ -18,8 +18,8 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "Microsoft.AspNetCore.Components.wasm": "sha256-Q1HL+PNCvf2eITvp4ejYO/TSi9Dte2WBPkjAJoZhLpQ=",
-      "Microsoft.AspNetCore.Components.Web.wasm": "sha256-eQ0rBvhoDc93poCxiiA9rRbG/FMibFaKk84eqkBsyeA=",
+      "Microsoft.AspNetCore.Components.wasm": "sha256-XJ8JdFyOxASkLqJDd+kkrJKEMtMNjBZbKgBCbyGppQw=",
+      "Microsoft.AspNetCore.Components.Web.wasm": "sha256-fJ0XzUV+bbCgvdVZr383/LYAgZV7qfuiGshKy+wIl3c=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-pJN9OZzhdw9H6UD2cenyYZL0Bn1Iua2pt2+j2Os+FPg=",
       "Microsoft.Extensions.Configuration.wasm": "sha256-od574rRtVVRJj+24jbl8j3GdQFpxlJOpSx+pEMw1Q18=",
       "Microsoft.Extensions.Configuration.Abstractions.wasm": "sha256-XR+WUfg8LtnrwdXFBnV+qO3ROyp6cYCfl1AZajIAheM=",
@@ -38,7 +38,7 @@
       "System.Collections.wasm": "sha256-b2vSMpqCPyQvLHJLjYl2YdrbLvsQwBUetWvTidwzYRY=",
       "System.ComponentModel.wasm": "sha256-NwdL+bCT1n5DFHznF82J+HsgMqmrgx7yfNJtf2wG9W4=",
       "System.Console.wasm": "sha256-ZPDcTW791AW1HG2ftd++lN2AVA9jwfyqbaglRIlhRxs=",
-      "System.Linq.wasm": "sha256-4JwpndKHbLrFeco/9tC/9SJWMnvkwMluGLRudBFGV44=",
+      "System.Linq.wasm": "sha256-WDUHbaDphl5yUXPcqFuI2a/r+Lrp+D5Xqi2606gxboM=",
       "System.Memory.wasm": "sha256-nJVbQBJn/j0C7xVbdnNFhWaPkZHsxuCcEiVBnPL3QtE=",
       "System.Net.Http.wasm": "sha256-tLDtyK9LvkgfQGx0ANcHZtSIg+zA5oLgiczqDxPvt0E=",
       "System.Net.Primitives.wasm": "sha256-e/ventvhLQqSmnoLpE6k5xnK5jZzq8AOqarcjVwH6XU=",
@@ -50,11 +50,11 @@
       "System.Text.RegularExpressions.wasm": "sha256-EBNNP57+VS/OjAuJHOY1mCfaJCJQYORnhF3/w7wP5kI=",
       "System.Threading.wasm": "sha256-l5XpIoa2lwtOPt1p4IEBdJ8SrCCJWAveGmP0Ew5UqBg=",
       "System.Private.CoreLib.wasm": "sha256-t2Eegwzb0d0Z5bdkS35sh8lT8N58STz//prB9GG+LKc=",
-      "PokerButler-PageSource.wasm": "sha256-xOPk/vK0sLLEJsaB58VPGo8bq7UAf1uRd+DHBaO5U/k="
+      "PokerButler-PageSource.wasm": "sha256-LRAGjOOt4s5YUPv42uYfVZ+yoBrfTfgxDlye0zBDXlg="
     },
     "satelliteResources": {
       "de": {
-        "PokerButler-PageSource.resources.wasm": "sha256-A7xmOcHu2wd7rF1Yjy4Q5viKSKineLaiUTUTk9r/HV4="
+        "PokerButler-PageSource.resources.wasm": "sha256-FJ2yhJTzvcVhtmd0Asyp1XohQe03vq93J5a/M4eclzE="
       }
     }
   },
